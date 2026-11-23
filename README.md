@@ -93,4 +93,4 @@ INET, Veins and SUMO are separate projects under their own licenses and are not 
 ## Citation
 
 If you use this code, please cite the paper above and the archived version of this
-repository: `DOI: 10.5281/zenodo.XXXXXXX` (added after the first Zenodo release).
+repository: [doi:10.5281/zenodo.24455344](https://doi.org/10.5281/zenodo.24455344) (v1.0).
