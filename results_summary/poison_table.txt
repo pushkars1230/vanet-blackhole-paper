@@ -1,0 +1,8 @@
+scenario poison  cap   n   runs pktPDR   bound  >1000m by t=30 med delay p90 delay
+----------------------------------------------------------------------------------
+    Grid      0    0  30  23/30  0.261     320    0.00     nan      nans      nans
+    Grid   2000    0  30  17/30  0.095    1074    1.00     nan      2.8s      6.1s
+    Grid   2000  500  30  20/30  0.184     407    0.00     nan      nans      nans
+ Highway      0    0  30  27/30  0.680     323    0.00     nan      nans      nans
+ Highway   2000    0  30  21/30  0.477    1423    1.00     nan      0.7s      2.1s
+ Highway   2000  500  30  25/30  0.604     435    0.00     nan      nans      nans

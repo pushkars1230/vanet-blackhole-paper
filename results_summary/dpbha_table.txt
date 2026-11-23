@@ -1,0 +1,32 @@
+      config   bh  jump     variant   n   PDR        95% CI pktPDR  geoTP geoFP greyTP greyFP blkTP blkFP baits 1-reply
+-----------------------------------------------------------------------------------------------------------------------
+   DpbhaGrid 0.00     -        none  30  1.00 [0.89,1.00]  0.740      0     0      0      0     0     0     0       -
+   DpbhaGrid 0.00     -       dpbha  30  1.00 [0.89,1.00]  0.748      0     0      0      3     0     0     2    0.76
+   DpbhaGrid 0.00     -       fixed  30  1.00 [0.89,1.00]  0.740      0     0      0      0     0     0     0       -
+   DpbhaGrid 0.00     - cooperative  30  1.00 [0.89,1.00]  0.740      0     0      0      0     0     0     0       -
+   DpbhaGrid 0.00     - dpbha+fixed  30  1.00 [0.89,1.00]  0.748      0     0      0      3     0     0     2    0.76
+   DpbhaGrid 0.05     -        none  30  0.30 [0.17,0.48]  0.083      0     0      0      0     0     0     0       -
+   DpbhaGrid 0.05     -       dpbha  30  0.30 [0.17,0.48]  0.113      0     0     51     10    51     1    41    0.25
+   DpbhaGrid 0.05     -       fixed  30  0.77 [0.59,0.88]  0.263   3523     0      0      0     0     0     0       -
+   DpbhaGrid 0.05     - cooperative  30  0.77 [0.59,0.88]  0.261   3390     0      0      0     0     0     0       -
+   DpbhaGrid 0.05     - dpbha+fixed  30  0.77 [0.59,0.88]  0.289   2681     0     44      6    39     2    37    0.45
+   DpbhaGrid 0.10     -        none  30  0.23 [0.12,0.41]  0.033      0     0      0      0     0     0     0       -
+   DpbhaGrid 0.10     -       dpbha  30  0.20 [0.10,0.37]  0.028      0     0     69      4    66     1    38    0.14
+   DpbhaGrid 0.10     -       fixed  30  0.23 [0.12,0.41]  0.056   1969     0      0      0     0     0     0       -
+   DpbhaGrid 0.10     - cooperative  30  0.30 [0.17,0.48]  0.060   2431     0      0      0     0     0     0       -
+   DpbhaGrid 0.10     - dpbha+fixed  30  0.33 [0.19,0.51]  0.073   1996     3     61     15    54     7    37    0.30
+DpbhaHighway 0.00     -        none  30  1.00 [0.89,1.00]  0.900      0     0      0      0     0     0     0       -
+DpbhaHighway 0.00     -       dpbha  30  1.00 [0.89,1.00]  0.895      0     0      0      0     0     0     0    0.67
+DpbhaHighway 0.00     -       fixed  30  1.00 [0.89,1.00]  0.919      0     5      0      0     0     0     0       -
+DpbhaHighway 0.00     - cooperative  30  1.00 [0.89,1.00]  0.919      0     4      0      0     0     0     0       -
+DpbhaHighway 0.00     - dpbha+fixed  30  1.00 [0.89,1.00]  0.893      0     4      0      0     0     0     0    0.68
+DpbhaHighway 0.05     -        none  30  0.63 [0.46,0.78]  0.387      0     0      0      0     0     0     0       -
+DpbhaHighway 0.05     -       dpbha  30  0.70 [0.52,0.83]  0.432      0     0     89     47    84     5    61    0.11
+DpbhaHighway 0.05     -       fixed  30  0.87 [0.70,0.95]  0.687   1496     4      0      0     0     0     0       -
+DpbhaHighway 0.05     - cooperative  30  0.90 [0.74,0.97]  0.680   1603     5      0      0     0     0     0       -
+DpbhaHighway 0.05     - dpbha+fixed  30  0.90 [0.74,0.97]  0.679   1926    11     30     13    28     0    27    0.39
+DpbhaHighway 0.10     -        none  30  0.37 [0.22,0.54]  0.252      0     0      0      0     0     0     0       -
+DpbhaHighway 0.10     -       dpbha  30  0.47 [0.30,0.64]  0.288      0     0     93     25    91     0    40    0.13
+DpbhaHighway 0.10     -       fixed  30  0.70 [0.52,0.83]  0.420   2553     1      0      0     0     0     0       -
+DpbhaHighway 0.10     - cooperative  30  0.67 [0.49,0.81]  0.412   2473     2      0      0     0     0     0       -
+DpbhaHighway 0.10     - dpbha+fixed  30  0.73 [0.56,0.86]  0.429   2470     5     74     20    73     1    38    0.32

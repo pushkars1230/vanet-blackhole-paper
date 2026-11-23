@@ -1,0 +1,7 @@
+<routes>
+  <vType id="vtype0" accel="2.6" decel="4.5" sigma="0" length="4.5" minGap="2.5" maxSpeed="14" color="1,1,0"/>
+  <vehicle id="v0" type="vtype0" depart="0" departPos="10"><route edges="A0toB0 B0toB1 B1toA1 A1toA0 A0toB0 B0toB1 B1toA1 A1toA0 A0toB0 B0toB1 B1toA1 A1toA0"/></vehicle>
+  <vehicle id="v1" type="vtype0" depart="0" departPos="10"><route edges="B0toB1 B1toA1 A1toA0 A0toB0 B0toB1 B1toA1 A1toA0 A0toB0 B0toB1 B1toA1 A1toA0 A0toB0"/></vehicle>
+  <vehicle id="v2" type="vtype0" depart="0" departPos="10"><route edges="B1toA1 A1toA0 A0toB0 B0toB1 B1toA1 A1toA0 A0toB0 B0toB1 B1toA1 A1toA0 A0toB0 B0toB1"/></vehicle>
+  <vehicle id="v3" type="vtype0" depart="0" departPos="10"><route edges="A1toA0 A0toB0 B0toB1 B1toA1 A1toA0 A0toB0 B0toB1 B1toA1 A1toA0 A0toB0 B0toB1 B1toA1"/></vehicle>
+</routes>

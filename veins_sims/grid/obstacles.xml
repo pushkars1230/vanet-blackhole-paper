@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<environment>
+    <object position="min 40 40 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 40 240 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 40 440 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 40 640 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 240 40 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 240 240 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 240 440 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 240 640 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 440 40 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 440 240 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 440 440 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 440 640 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 640 40 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 640 240 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 640 440 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+    <object position="min 640 640 0" orientation="0 0 0" shape="cuboid 170 170 20" material="concrete" fill-color="180 180 180" opacity="0.8" />
+</environment>

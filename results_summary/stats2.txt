@@ -1,0 +1,390 @@
+5490 valid runs
+
+=== Adaptive+Coop bhFraction=0, power=10mW
+    adaptive0 vs none       n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+    adaptive0 vs fixed      n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+   adaptive10 vs none       n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+   adaptive10 vs fixed      n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+   adaptive25 vs none       n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+   adaptive25 vs fixed      n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative0 vs none       n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative0 vs fixed      n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative10 vs none       n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative10 vs fixed      n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative25 vs none       n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative25 vs fixed      n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+   linkbudget vs none       n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+   linkbudget vs fixed      n=30  delivered 28/30 vs 28/30  diff +0.00 [-0.15,+0.15]  rescued 0 broken 0  McNemar p=1.0000
+
+=== Adaptive+Coop bhFraction=0, power=20mW
+    adaptive0 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+    adaptive0 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   adaptive10 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   adaptive10 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   adaptive25 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   adaptive25 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative0 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative0 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative10 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative10 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative25 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative25 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   linkbudget vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   linkbudget vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+
+=== Adaptive+Coop bhFraction=0, power=40mW
+    adaptive0 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+    adaptive0 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   adaptive10 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   adaptive10 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   adaptive25 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   adaptive25 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative0 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative0 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative10 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative10 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative25 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative25 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   linkbudget vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   linkbudget vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+
+=== Adaptive+Coop bhFraction=0.05, power=10mW
+    adaptive0 vs none       n=30  delivered 16/30 vs  2/30  diff +0.47 [+0.24,+0.64]  rescued 14 broken 0  McNemar p=0.0001
+    adaptive0 vs fixed      n=30  delivered 16/30 vs 11/30  diff +0.17 [-0.08,+0.39]  rescued 5 broken 0  McNemar p=0.0625
+   adaptive10 vs none       n=30  delivered 15/30 vs  2/30  diff +0.43 [+0.21,+0.61]  rescued 13 broken 0  McNemar p=0.0002
+   adaptive10 vs fixed      n=30  delivered 15/30 vs 11/30  diff +0.13 [-0.11,+0.36]  rescued 4 broken 0  McNemar p=0.1250
+   adaptive25 vs none       n=30  delivered 15/30 vs  2/30  diff +0.43 [+0.21,+0.61]  rescued 13 broken 0  McNemar p=0.0002
+   adaptive25 vs fixed      n=30  delivered 15/30 vs 11/30  diff +0.13 [-0.11,+0.36]  rescued 4 broken 0  McNemar p=0.1250
+  cooperative0 vs none       n=30  delivered 15/30 vs  2/30  diff +0.43 [+0.21,+0.61]  rescued 13 broken 0  McNemar p=0.0002
+  cooperative0 vs fixed      n=30  delivered 15/30 vs 11/30  diff +0.13 [-0.11,+0.36]  rescued 4 broken 0  McNemar p=0.1250
+  cooperative10 vs none       n=30  delivered 15/30 vs  2/30  diff +0.43 [+0.21,+0.61]  rescued 13 broken 0  McNemar p=0.0002
+  cooperative10 vs fixed      n=30  delivered 15/30 vs 11/30  diff +0.13 [-0.11,+0.36]  rescued 4 broken 0  McNemar p=0.1250
+  cooperative25 vs none       n=30  delivered 15/30 vs  2/30  diff +0.43 [+0.21,+0.61]  rescued 13 broken 0  McNemar p=0.0002
+  cooperative25 vs fixed      n=30  delivered 15/30 vs 11/30  diff +0.13 [-0.11,+0.36]  rescued 4 broken 0  McNemar p=0.1250
+        fixed vs none       n=30  delivered 11/30 vs  2/30  diff +0.30 [+0.09,+0.48]  rescued 9 broken 0  McNemar p=0.0039
+   linkbudget vs none       n=30  delivered 15/30 vs  2/30  diff +0.43 [+0.21,+0.61]  rescued 13 broken 0  McNemar p=0.0002
+   linkbudget vs fixed      n=30  delivered 15/30 vs 11/30  diff +0.13 [-0.11,+0.36]  rescued 4 broken 0  McNemar p=0.1250
+
+=== Adaptive+Coop bhFraction=0.05, power=20mW
+    adaptive0 vs none       n=30  delivered 16/30 vs  2/30  diff +0.47 [+0.24,+0.64]  rescued 14 broken 0  McNemar p=0.0001
+    adaptive0 vs fixed      n=30  delivered 16/30 vs 11/30  diff +0.17 [-0.08,+0.39]  rescued 5 broken 0  McNemar p=0.0625
+   adaptive10 vs none       n=30  delivered 14/30 vs  2/30  diff +0.40 [+0.18,+0.58]  rescued 12 broken 0  McNemar p=0.0005
+   adaptive10 vs fixed      n=30  delivered 14/30 vs 11/30  diff +0.10 [-0.14,+0.33]  rescued 3 broken 0  McNemar p=0.2500
+   adaptive25 vs none       n=30  delivered 12/30 vs  2/30  diff +0.33 [+0.12,+0.52]  rescued 10 broken 0  McNemar p=0.0020
+   adaptive25 vs fixed      n=30  delivered 12/30 vs 11/30  diff +0.03 [-0.20,+0.26]  rescued 2 broken 1  McNemar p=1.0000
+  cooperative0 vs none       n=30  delivered 11/30 vs  2/30  diff +0.30 [+0.09,+0.48]  rescued 9 broken 0  McNemar p=0.0039
+  cooperative0 vs fixed      n=30  delivered 11/30 vs 11/30  diff +0.00 [-0.23,+0.23]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative10 vs none       n=30  delivered 11/30 vs  2/30  diff +0.30 [+0.09,+0.48]  rescued 9 broken 0  McNemar p=0.0039
+  cooperative10 vs fixed      n=30  delivered 11/30 vs 11/30  diff +0.00 [-0.23,+0.23]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative25 vs none       n=30  delivered  9/30 vs  2/30  diff +0.23 [+0.04,+0.42]  rescued 7 broken 0  McNemar p=0.0156
+  cooperative25 vs fixed      n=30  delivered  9/30 vs 11/30  diff -0.07 [-0.29,+0.17]  rescued 0 broken 2  McNemar p=0.5000
+        fixed vs none       n=30  delivered 11/30 vs  2/30  diff +0.30 [+0.09,+0.48]  rescued 9 broken 0  McNemar p=0.0039
+   linkbudget vs none       n=30  delivered 11/30 vs  2/30  diff +0.30 [+0.09,+0.48]  rescued 9 broken 0  McNemar p=0.0039
+   linkbudget vs fixed      n=30  delivered 11/30 vs 11/30  diff +0.00 [-0.23,+0.23]  rescued 0 broken 0  McNemar p=1.0000
+
+=== Adaptive+Coop bhFraction=0.05, power=40mW
+    adaptive0 vs none       n=30  delivered 13/30 vs  0/30  diff +0.43 [+0.24,+0.61]  rescued 13 broken 0  McNemar p=0.0002
+    adaptive0 vs fixed      n=30  delivered 13/30 vs 15/30  diff -0.07 [-0.30,+0.18]  rescued 3 broken 5  McNemar p=0.7266
+   adaptive10 vs none       n=30  delivered 10/30 vs  0/30  diff +0.33 [+0.15,+0.51]  rescued 10 broken 0  McNemar p=0.0020
+   adaptive10 vs fixed      n=30  delivered 10/30 vs 15/30  diff -0.17 [-0.39,+0.08]  rescued 2 broken 7  McNemar p=0.1797
+   adaptive25 vs none       n=30  delivered  9/30 vs  0/30  diff +0.30 [+0.12,+0.48]  rescued 9 broken 0  McNemar p=0.0039
+   adaptive25 vs fixed      n=30  delivered  9/30 vs 15/30  diff -0.20 [-0.41,+0.05]  rescued 1 broken 7  McNemar p=0.0703
+  cooperative0 vs none       n=30  delivered  8/30 vs  0/30  diff +0.27 [+0.10,+0.44]  rescued 8 broken 0  McNemar p=0.0078
+  cooperative0 vs fixed      n=30  delivered  8/30 vs 15/30  diff -0.23 [-0.44,+0.01]  rescued 0 broken 7  McNemar p=0.0156
+  cooperative10 vs none       n=30  delivered  8/30 vs  0/30  diff +0.27 [+0.10,+0.44]  rescued 8 broken 0  McNemar p=0.0078
+  cooperative10 vs fixed      n=30  delivered  8/30 vs 15/30  diff -0.23 [-0.44,+0.01]  rescued 0 broken 7  McNemar p=0.0156
+  cooperative25 vs none       n=30  delivered  6/30 vs  0/30  diff +0.20 [+0.05,+0.37]  rescued 6 broken 0  McNemar p=0.0312
+  cooperative25 vs fixed      n=30  delivered  6/30 vs 15/30  diff -0.30 [-0.50,-0.06]  rescued 0 broken 9  McNemar p=0.0039
+        fixed vs none       n=30  delivered 15/30 vs  0/30  diff +0.50 [+0.30,+0.67]  rescued 15 broken 0  McNemar p=0.0001
+   linkbudget vs none       n=30  delivered  8/30 vs  0/30  diff +0.27 [+0.10,+0.44]  rescued 8 broken 0  McNemar p=0.0078
+   linkbudget vs fixed      n=30  delivered  8/30 vs 15/30  diff -0.23 [-0.44,+0.01]  rescued 0 broken 7  McNemar p=0.0156
+
+=== CoopFading bhFraction=0, m=1
+  cooperative0 vs none       n=30  delivered 17/30 vs 17/30  diff +0.00 [-0.24,+0.24]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative0 vs fixed      n=30  delivered 17/30 vs 20/30  diff -0.10 [-0.32,+0.14]  rescued 1 broken 4  McNemar p=0.3750
+        fixed vs none       n=30  delivered 20/30 vs 17/30  diff +0.10 [-0.14,+0.32]  rescued 4 broken 1  McNemar p=0.3750
+
+=== CoopFading bhFraction=0, m=3
+  cooperative0 vs none       n=30  delivered 21/30 vs 21/30  diff +0.00 [-0.22,+0.22]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative0 vs fixed      n=30  delivered 21/30 vs 21/30  diff +0.00 [-0.22,+0.22]  rescued 1 broken 1  McNemar p=1.0000
+        fixed vs none       n=30  delivered 21/30 vs 21/30  diff +0.00 [-0.22,+0.22]  rescued 1 broken 1  McNemar p=1.0000
+
+=== CoopFading bhFraction=0.05, m=1
+  cooperative0 vs none       n=30  delivered  5/30 vs  2/30  diff +0.10 [-0.07,+0.28]  rescued 3 broken 0  McNemar p=0.2500
+  cooperative0 vs fixed      n=30  delivered  5/30 vs  6/30  diff -0.03 [-0.23,+0.17]  rescued 2 broken 3  McNemar p=1.0000
+        fixed vs none       n=30  delivered  6/30 vs  2/30  diff +0.13 [-0.05,+0.31]  rescued 5 broken 1  McNemar p=0.2188
+
+=== CoopFading bhFraction=0.05, m=3
+  cooperative0 vs none       n=30  delivered  8/30 vs  2/30  diff +0.20 [+0.01,+0.38]  rescued 6 broken 0  McNemar p=0.0312
+  cooperative0 vs fixed      n=30  delivered  8/30 vs 12/30  diff -0.13 [-0.35,+0.10]  rescued 1 broken 5  McNemar p=0.2188
+        fixed vs none       n=30  delivered 12/30 vs  2/30  diff +0.33 [+0.12,+0.52]  rescued 11 broken 1  McNemar p=0.0063
+
+=== Density bhFraction=0, maxRange=330m, N=120
+   ackTimeout vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs ackTimeout n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+
+=== Density bhFraction=0, maxRange=330m, N=40
+   ackTimeout vs none       n=30  delivered 23/30 vs 23/30  diff +0.00 [-0.21,+0.21]  rescued 0 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered 23/30 vs 23/30  diff +0.00 [-0.21,+0.21]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered 23/30 vs 23/30  diff +0.00 [-0.21,+0.21]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs ackTimeout n=30  delivered 23/30 vs 23/30  diff +0.00 [-0.21,+0.21]  rescued 0 broken 0  McNemar p=1.0000
+
+=== Density bhFraction=0.05, maxRange=330m, N=120
+   ackTimeout vs none       n=30  delivered  0/30 vs  0/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered  0/30 vs  7/30  diff -0.23 [-0.41,-0.07]  rescued 0 broken 7  McNemar p=0.0156
+        fixed vs none       n=30  delivered  7/30 vs  0/30  diff +0.23 [+0.07,+0.41]  rescued 7 broken 0  McNemar p=0.0156
+        fixed vs ackTimeout n=30  delivered  7/30 vs  0/30  diff +0.23 [+0.07,+0.41]  rescued 7 broken 0  McNemar p=0.0156
+
+=== Density bhFraction=0.05, maxRange=330m, N=40
+   ackTimeout vs none       n=30  delivered  7/30 vs  7/30  diff +0.00 [-0.21,+0.21]  rescued 0 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered  7/30 vs  9/30  diff -0.07 [-0.28,+0.15]  rescued 0 broken 2  McNemar p=0.5000
+        fixed vs none       n=30  delivered  9/30 vs  7/30  diff +0.07 [-0.15,+0.28]  rescued 2 broken 0  McNemar p=0.5000
+        fixed vs ackTimeout n=30  delivered  9/30 vs  7/30  diff +0.07 [-0.15,+0.28]  rescued 2 broken 0  McNemar p=0.5000
+
+=== Density bhFraction=0.10, maxRange=330m, N=120
+   ackTimeout vs none       n=30  delivered  0/30 vs  0/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered  0/30 vs  3/30  diff -0.10 [-0.26,+0.03]  rescued 0 broken 3  McNemar p=0.2500
+        fixed vs none       n=30  delivered  3/30 vs  0/30  diff +0.10 [-0.03,+0.26]  rescued 3 broken 0  McNemar p=0.2500
+        fixed vs ackTimeout n=30  delivered  3/30 vs  0/30  diff +0.10 [-0.03,+0.26]  rescued 3 broken 0  McNemar p=0.2500
+
+=== Density bhFraction=0.10, maxRange=330m, N=40
+   ackTimeout vs none       n=30  delivered  1/30 vs  1/30  diff +0.00 [-0.14,+0.14]  rescued 0 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered  1/30 vs  5/30  diff -0.13 [-0.30,+0.03]  rescued 0 broken 4  McNemar p=0.1250
+        fixed vs none       n=30  delivered  5/30 vs  1/30  diff +0.13 [-0.03,+0.30]  rescued 4 broken 0  McNemar p=0.1250
+        fixed vs ackTimeout n=30  delivered  5/30 vs  1/30  diff +0.13 [-0.03,+0.30]  rescued 4 broken 0  McNemar p=0.1250
+
+=== Density bhFraction=0.15, maxRange=330m, N=120
+   ackTimeout vs none       n=30  delivered  0/30 vs  0/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered  0/30 vs  2/30  diff -0.07 [-0.21,+0.06]  rescued 0 broken 2  McNemar p=0.5000
+        fixed vs none       n=30  delivered  2/30 vs  0/30  diff +0.07 [-0.06,+0.21]  rescued 2 broken 0  McNemar p=0.5000
+        fixed vs ackTimeout n=30  delivered  2/30 vs  0/30  diff +0.07 [-0.06,+0.21]  rescued 2 broken 0  McNemar p=0.5000
+
+=== Density bhFraction=0.15, maxRange=330m, N=40
+   ackTimeout vs none       n=30  delivered  1/30 vs  1/30  diff +0.00 [-0.14,+0.14]  rescued 0 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered  1/30 vs  1/30  diff +0.00 [-0.14,+0.14]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered  1/30 vs  1/30  diff +0.00 [-0.14,+0.14]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs ackTimeout n=30  delivered  1/30 vs  1/30  diff +0.00 [-0.14,+0.14]  rescued 0 broken 0  McNemar p=1.0000
+
+=== Density bhFraction=0.20, maxRange=330m, N=120
+   ackTimeout vs none       n=30  delivered  0/30 vs  0/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered  0/30 vs  1/30  diff -0.03 [-0.17,+0.08]  rescued 0 broken 1  McNemar p=1.0000
+        fixed vs none       n=30  delivered  1/30 vs  0/30  diff +0.03 [-0.08,+0.17]  rescued 1 broken 0  McNemar p=1.0000
+        fixed vs ackTimeout n=30  delivered  1/30 vs  0/30  diff +0.03 [-0.08,+0.17]  rescued 1 broken 0  McNemar p=1.0000
+
+=== Density bhFraction=0.20, maxRange=330m, N=40
+   ackTimeout vs none       n=30  delivered  1/30 vs  0/30  diff +0.03 [-0.08,+0.17]  rescued 1 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered  1/30 vs  2/30  diff -0.03 [-0.18,+0.11]  rescued 0 broken 1  McNemar p=1.0000
+        fixed vs none       n=30  delivered  2/30 vs  0/30  diff +0.07 [-0.06,+0.21]  rescued 2 broken 0  McNemar p=0.5000
+        fixed vs ackTimeout n=30  delivered  2/30 vs  1/30  diff +0.03 [-0.11,+0.18]  rescued 1 broken 0  McNemar p=1.0000
+
+=== Highway bhFraction=0, maxRange=330m
+   ackTimeout vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+                 packets: mean diff -0.7 pp [-1.6,+0.2]  Wilcoxon p=0.1056 (n≠0=5)
+   ackTimeout vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+                 packets: mean diff -0.8 pp [-1.8,+0.2]  Wilcoxon p=0.1056 (n≠0=5)
+        fixed vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+                 packets: mean diff +0.1 pp [-0.1,+0.4]  Wilcoxon p=1.0000 (n≠0=1)
+        fixed vs ackTimeout n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+                 packets: mean diff +0.8 pp [-0.2,+1.8]  Wilcoxon p=0.1056 (n≠0=5)
+
+=== Highway bhFraction=0.05, maxRange=330m
+   ackTimeout vs none       n=30  delivered 19/30 vs 11/30  diff +0.27 [+0.01,+0.48]  rescued 8 broken 0  McNemar p=0.0078
+                 packets: mean diff +5.9 pp [-0.1,+11.8]  Wilcoxon p=0.0494 (n≠0=16)
+   ackTimeout vs fixed      n=30  delivered 19/30 vs 24/30  diff -0.17 [-0.37,+0.06]  rescued 2 broken 7  McNemar p=0.1797
+                 packets: mean diff -16.9 pp [-29.9,-4.0]  Wilcoxon p=0.0093 (n≠0=23)
+        fixed vs none       n=30  delivered 24/30 vs 11/30  diff +0.43 [+0.18,+0.61]  rescued 13 broken 0  McNemar p=0.0002
+                 packets: mean diff +22.8 pp [+11.0,+34.6]  Wilcoxon p=0.0006 (n≠0=19)
+        fixed vs ackTimeout n=30  delivered 24/30 vs 19/30  diff +0.17 [-0.06,+0.37]  rescued 7 broken 2  McNemar p=0.1797
+                 packets: mean diff +16.9 pp [+4.0,+29.9]  Wilcoxon p=0.0093 (n≠0=23)
+
+=== Highway bhFraction=0.10, maxRange=330m
+   ackTimeout vs none       n=30  delivered 13/30 vs  6/30  diff +0.23 [-0.00,+0.44]  rescued 7 broken 0  McNemar p=0.0156
+                 packets: mean diff +6.8 pp [+1.3,+12.3]  Wilcoxon p=0.0113 (n≠0=11)
+   ackTimeout vs fixed      n=30  delivered 13/30 vs 12/30  diff +0.03 [-0.20,+0.27]  rescued 6 broken 5  McNemar p=1.0000
+                 packets: mean diff +1.2 pp [-7.8,+10.2]  Wilcoxon p=0.5862 (n≠0=17)
+        fixed vs none       n=30  delivered 12/30 vs  6/30  diff +0.20 [-0.03,+0.41]  rescued 7 broken 1  McNemar p=0.0703
+                 packets: mean diff +5.6 pp [-1.0,+12.2]  Wilcoxon p=0.0330 (n≠0=9)
+        fixed vs ackTimeout n=30  delivered 12/30 vs 13/30  diff -0.03 [-0.27,+0.20]  rescued 5 broken 6  McNemar p=1.0000
+                 packets: mean diff -1.2 pp [-10.2,+7.8]  Wilcoxon p=0.5862 (n≠0=17)
+
+=== Highway bhFraction=0.15, maxRange=330m
+   ackTimeout vs none       n=30  delivered  8/30 vs  6/30  diff +0.07 [-0.15,+0.27]  rescued 2 broken 0  McNemar p=0.5000
+                 packets: mean diff +4.9 pp [-0.8,+10.7]  Wilcoxon p=0.0519 (n≠0=7)
+   ackTimeout vs fixed      n=30  delivered  8/30 vs  8/30  diff +0.00 [-0.22,+0.22]  rescued 4 broken 4  McNemar p=1.0000
+                 packets: mean diff +2.9 pp [-5.9,+11.8]  Wilcoxon p=0.3983 (n≠0=11)
+        fixed vs none       n=30  delivered  8/30 vs  6/30  diff +0.07 [-0.15,+0.27]  rescued 4 broken 2  McNemar p=0.6875
+                 packets: mean diff +2.0 pp [-3.4,+7.4]  Wilcoxon p=1.0000 (n≠0=8)
+        fixed vs ackTimeout n=30  delivered  8/30 vs  8/30  diff +0.00 [-0.22,+0.22]  rescued 4 broken 4  McNemar p=1.0000
+                 packets: mean diff -2.9 pp [-11.8,+5.9]  Wilcoxon p=0.3983 (n≠0=11)
+
+=== Highway bhFraction=0.20, maxRange=330m
+   ackTimeout vs none       n=30  delivered  6/30 vs  4/30  diff +0.07 [-0.13,+0.26]  rescued 4 broken 2  McNemar p=0.6875
+                 packets: mean diff -0.9 pp [-4.9,+3.0]  Wilcoxon p=0.7263 (n≠0=8)
+   ackTimeout vs fixed      n=30  delivered  6/30 vs  3/30  diff +0.10 [-0.09,+0.29]  rescued 4 broken 1  McNemar p=0.3750
+                 packets: mean diff +1.3 pp [-0.3,+3.0]  Wilcoxon p=0.2049 (n≠0=7)
+        fixed vs none       n=30  delivered  3/30 vs  4/30  diff -0.03 [-0.21,+0.14]  rescued 0 broken 1  McNemar p=1.0000
+                 packets: mean diff -2.3 pp [-5.3,+0.8]  Wilcoxon p=0.1814 (n≠0=3)
+        fixed vs ackTimeout n=30  delivered  3/30 vs  6/30  diff -0.10 [-0.29,+0.09]  rescued 1 broken 4  McNemar p=0.3750
+                 packets: mean diff -1.3 pp [-3.0,+0.3]  Wilcoxon p=0.2049 (n≠0=7)
+
+=== HighwayCoop bhFraction=0, maxRange=330m
+  cooperative0 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+                 packets: mean diff +1.9 pp [-2.0,+5.7]  Wilcoxon p=1.0000 (n≠0=1)
+  cooperative0 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+                 packets: mean diff +0.0 pp [+0.0,+0.0]  Wilcoxon p=nan (n≠0=0)
+        fixed vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+                 packets: mean diff +1.9 pp [-2.0,+5.7]  Wilcoxon p=1.0000 (n≠0=1)
+
+=== HighwayCoop bhFraction=0.05, maxRange=330m
+  cooperative0 vs none       n=30  delivered 27/30 vs 19/30  diff +0.27 [+0.05,+0.46]  rescued 8 broken 0  McNemar p=0.0078
+                 packets: mean diff +29.3 pp [+18.1,+40.6]  Wilcoxon p=0.0000 (n≠0=22)
+  cooperative0 vs fixed      n=30  delivered 27/30 vs 26/30  diff +0.03 [-0.14,+0.21]  rescued 1 broken 0  McNemar p=1.0000
+                 packets: mean diff -0.7 pp [-2.4,+1.1]  Wilcoxon p=0.7893 (n≠0=3)
+        fixed vs none       n=30  delivered 26/30 vs 19/30  diff +0.23 [+0.01,+0.43]  rescued 7 broken 0  McNemar p=0.0156
+                 packets: mean diff +30.0 pp [+18.9,+41.1]  Wilcoxon p=0.0001 (n≠0=21)
+
+=== PosError bhFraction=0, sigma=0, beacon=0
+  cooperative0 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative0 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+
+=== PosError bhFraction=0, sigma=0, beacon=1
+  cooperative0 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative0 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+
+=== PosError bhFraction=0, sigma=10, beacon=0
+  cooperative0 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative0 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+
+=== PosError bhFraction=0, sigma=10, beacon=1
+  cooperative0 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative0 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+
+=== PosError bhFraction=0, sigma=5, beacon=0
+  cooperative0 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative0 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+
+=== PosError bhFraction=0, sigma=5, beacon=1
+  cooperative0 vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+  cooperative0 vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+
+=== PosError bhFraction=0.05, sigma=0, beacon=0
+  cooperative0 vs none       n=30  delivered 10/30 vs  2/30  diff +0.27 [+0.06,+0.45]  rescued 8 broken 0  McNemar p=0.0078
+  cooperative0 vs fixed      n=30  delivered 10/30 vs  9/30  diff +0.03 [-0.19,+0.26]  rescued 1 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered  9/30 vs  2/30  diff +0.23 [+0.04,+0.42]  rescued 7 broken 0  McNemar p=0.0156
+
+=== PosError bhFraction=0.05, sigma=0, beacon=1
+  cooperative0 vs none       n=30  delivered 10/30 vs  2/30  diff +0.27 [+0.06,+0.45]  rescued 8 broken 0  McNemar p=0.0078
+  cooperative0 vs fixed      n=30  delivered 10/30 vs  9/30  diff +0.03 [-0.19,+0.26]  rescued 1 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered  9/30 vs  2/30  diff +0.23 [+0.04,+0.42]  rescued 7 broken 0  McNemar p=0.0156
+
+=== PosError bhFraction=0.05, sigma=10, beacon=0
+  cooperative0 vs none       n=30  delivered  6/30 vs  2/30  diff +0.13 [-0.05,+0.31]  rescued 5 broken 1  McNemar p=0.2188
+  cooperative0 vs fixed      n=30  delivered  6/30 vs  8/30  diff -0.07 [-0.27,+0.15]  rescued 0 broken 2  McNemar p=0.5000
+        fixed vs none       n=30  delivered  8/30 vs  2/30  diff +0.20 [+0.01,+0.38]  rescued 6 broken 0  McNemar p=0.0312
+
+=== PosError bhFraction=0.05, sigma=10, beacon=1
+  cooperative0 vs none       n=30  delivered  9/30 vs  2/30  diff +0.23 [+0.04,+0.42]  rescued 7 broken 0  McNemar p=0.0156
+  cooperative0 vs fixed      n=30  delivered  9/30 vs 10/30  diff -0.03 [-0.26,+0.19]  rescued 0 broken 1  McNemar p=1.0000
+        fixed vs none       n=30  delivered 10/30 vs  2/30  diff +0.27 [+0.06,+0.45]  rescued 8 broken 0  McNemar p=0.0078
+
+=== PosError bhFraction=0.05, sigma=5, beacon=0
+  cooperative0 vs none       n=30  delivered  7/30 vs  2/30  diff +0.17 [-0.02,+0.35]  rescued 6 broken 1  McNemar p=0.1250
+  cooperative0 vs fixed      n=30  delivered  7/30 vs  8/30  diff -0.03 [-0.25,+0.18]  rescued 0 broken 1  McNemar p=1.0000
+        fixed vs none       n=30  delivered  8/30 vs  2/30  diff +0.20 [+0.01,+0.38]  rescued 6 broken 0  McNemar p=0.0312
+
+=== PosError bhFraction=0.05, sigma=5, beacon=1
+  cooperative0 vs none       n=30  delivered 10/30 vs  2/30  diff +0.27 [+0.06,+0.45]  rescued 8 broken 0  McNemar p=0.0078
+  cooperative0 vs fixed      n=30  delivered 10/30 vs 10/30  diff +0.00 [-0.23,+0.23]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered 10/30 vs  2/30  diff +0.27 [+0.06,+0.45]  rescued 8 broken 0  McNemar p=0.0078
+
+=== Stream bhFraction=0, maxRange=330m
+   ackTimeout vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+                 packets: mean diff -5.1 pp [-8.9,-1.3]  Wilcoxon p=0.0157 (n≠0=14)
+   ackTimeout vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+                 packets: mean diff -5.1 pp [-8.9,-1.3]  Wilcoxon p=0.0157 (n≠0=14)
+        fixed vs none       n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+                 packets: mean diff +0.0 pp [+0.0,+0.0]  Wilcoxon p=nan (n≠0=0)
+        fixed vs ackTimeout n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+                 packets: mean diff +5.1 pp [+1.3,+8.9]  Wilcoxon p=0.0157 (n≠0=14)
+
+=== Stream bhFraction=0.05, maxRange=330m
+   ackTimeout vs none       n=30  delivered  9/30 vs  8/30  diff +0.03 [-0.19,+0.25]  rescued 4 broken 3  McNemar p=1.0000
+                 packets: mean diff +0.7 pp [-4.0,+5.4]  Wilcoxon p=0.9687 (n≠0=12)
+   ackTimeout vs fixed      n=30  delivered  9/30 vs 18/30  diff -0.30 [-0.50,-0.05]  rescued 3 broken 12  McNemar p=0.0352
+                 packets: mean diff -13.5 pp [-21.6,-5.3]  Wilcoxon p=0.0021 (n≠0=19)
+        fixed vs none       n=30  delivered 18/30 vs  8/30  diff +0.33 [+0.08,+0.53]  rescued 11 broken 1  McNemar p=0.0063
+                 packets: mean diff +14.1 pp [+6.0,+22.3]  Wilcoxon p=0.0031 (n≠0=18)
+        fixed vs ackTimeout n=30  delivered 18/30 vs  9/30  diff +0.30 [+0.05,+0.50]  rescued 12 broken 3  McNemar p=0.0352
+                 packets: mean diff +13.5 pp [+5.3,+21.6]  Wilcoxon p=0.0021 (n≠0=19)
+
+=== Stream bhFraction=0.10, maxRange=330m
+   ackTimeout vs none       n=30  delivered  7/30 vs  3/30  diff +0.13 [-0.06,+0.32]  rescued 5 broken 1  McNemar p=0.2188
+                 packets: mean diff +3.9 pp [+0.1,+7.6]  Wilcoxon p=0.0357 (n≠0=8)
+   ackTimeout vs fixed      n=30  delivered  7/30 vs 10/30  diff -0.10 [-0.31,+0.13]  rescued 1 broken 4  McNemar p=0.3750
+                 packets: mean diff -4.5 pp [-12.1,+3.0]  Wilcoxon p=0.4148 (n≠0=10)
+        fixed vs none       n=30  delivered 10/30 vs  3/30  diff +0.23 [+0.02,+0.42]  rescued 8 broken 1  McNemar p=0.0391
+                 packets: mean diff +8.4 pp [+0.0,+16.8]  Wilcoxon p=0.0185 (n≠0=11)
+        fixed vs ackTimeout n=30  delivered 10/30 vs  7/30  diff +0.10 [-0.13,+0.31]  rescued 4 broken 1  McNemar p=0.3750
+                 packets: mean diff +4.5 pp [-3.0,+12.1]  Wilcoxon p=0.4148 (n≠0=10)
+
+=== Stream bhFraction=0.15, maxRange=330m
+   ackTimeout vs none       n=30  delivered  8/30 vs  1/30  diff +0.23 [+0.05,+0.41]  rescued 7 broken 0  McNemar p=0.0156
+                 packets: mean diff +4.5 pp [+0.2,+8.9]  Wilcoxon p=0.0143 (n≠0=8)
+   ackTimeout vs fixed      n=30  delivered  8/30 vs  6/30  diff +0.07 [-0.15,+0.27]  rescued 4 broken 2  McNemar p=0.6875
+                 packets: mean diff -0.3 pp [-5.5,+4.9]  Wilcoxon p=0.5536 (n≠0=9)
+        fixed vs none       n=30  delivered  6/30 vs  1/30  diff +0.17 [-0.00,+0.34]  rescued 5 broken 0  McNemar p=0.0625
+                 packets: mean diff +4.8 pp [-1.5,+11.1]  Wilcoxon p=0.0360 (n≠0=6)
+        fixed vs ackTimeout n=30  delivered  6/30 vs  8/30  diff -0.07 [-0.27,+0.15]  rescued 2 broken 4  McNemar p=0.6875
+                 packets: mean diff +0.3 pp [-4.9,+5.5]  Wilcoxon p=0.5536 (n≠0=9)
+
+=== Stream bhFraction=0.20, maxRange=330m
+   ackTimeout vs none       n=30  delivered  5/30 vs  1/30  diff +0.13 [-0.03,+0.30]  rescued 4 broken 0  McNemar p=0.1250
+                 packets: mean diff +1.3 pp [-0.0,+2.7]  Wilcoxon p=0.0591 (n≠0=5)
+   ackTimeout vs fixed      n=30  delivered  5/30 vs  4/30  diff +0.03 [-0.15,+0.22]  rescued 3 broken 2  McNemar p=1.0000
+                 packets: mean diff +0.8 pp [-0.7,+2.3]  Wilcoxon p=0.4631 (n≠0=6)
+        fixed vs none       n=30  delivered  4/30 vs  1/30  diff +0.10 [-0.06,+0.27]  rescued 3 broken 0  McNemar p=0.2500
+                 packets: mean diff +0.5 pp [-0.1,+1.2]  Wilcoxon p=0.1814 (n≠0=3)
+        fixed vs ackTimeout n=30  delivered  4/30 vs  5/30  diff -0.03 [-0.22,+0.15]  rescued 2 broken 3  McNemar p=1.0000
+                 packets: mean diff -0.8 pp [-2.3,+0.7]  Wilcoxon p=0.4631 (n≠0=6)
+
+=== Sweep bhFraction=0, maxRange=330m
+   ackTimeout vs none       n=30  delivered 30/30 vs 29/30  diff +0.03 [-0.08,+0.17]  rescued 1 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+        fixed vs none       n=30  delivered 30/30 vs 29/30  diff +0.03 [-0.08,+0.17]  rescued 1 broken 0  McNemar p=1.0000
+        fixed vs ackTimeout n=30  delivered 30/30 vs 30/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+
+=== Sweep bhFraction=0.05, maxRange=330m
+   ackTimeout vs none       n=30  delivered  1/30 vs  1/30  diff +0.00 [-0.14,+0.14]  rescued 0 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered  1/30 vs  8/30  diff -0.23 [-0.41,-0.05]  rescued 0 broken 7  McNemar p=0.0156
+        fixed vs none       n=30  delivered  8/30 vs  1/30  diff +0.23 [+0.05,+0.41]  rescued 7 broken 0  McNemar p=0.0156
+        fixed vs ackTimeout n=30  delivered  8/30 vs  1/30  diff +0.23 [+0.05,+0.41]  rescued 7 broken 0  McNemar p=0.0156
+
+=== Sweep bhFraction=0.10, maxRange=330m
+   ackTimeout vs none       n=30  delivered  0/30 vs  0/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered  0/30 vs  1/30  diff -0.03 [-0.17,+0.08]  rescued 0 broken 1  McNemar p=1.0000
+        fixed vs none       n=30  delivered  1/30 vs  0/30  diff +0.03 [-0.08,+0.17]  rescued 1 broken 0  McNemar p=1.0000
+        fixed vs ackTimeout n=30  delivered  1/30 vs  0/30  diff +0.03 [-0.08,+0.17]  rescued 1 broken 0  McNemar p=1.0000
+
+=== Sweep bhFraction=0.15, maxRange=330m
+   ackTimeout vs none       n=30  delivered  0/30 vs  0/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered  0/30 vs  1/30  diff -0.03 [-0.17,+0.08]  rescued 0 broken 1  McNemar p=1.0000
+        fixed vs none       n=30  delivered  1/30 vs  0/30  diff +0.03 [-0.08,+0.17]  rescued 1 broken 0  McNemar p=1.0000
+        fixed vs ackTimeout n=30  delivered  1/30 vs  0/30  diff +0.03 [-0.08,+0.17]  rescued 1 broken 0  McNemar p=1.0000
+
+=== Sweep bhFraction=0.20, maxRange=330m
+   ackTimeout vs none       n=30  delivered  0/30 vs  0/30  diff +0.00 [-0.11,+0.11]  rescued 0 broken 0  McNemar p=1.0000
+   ackTimeout vs fixed      n=30  delivered  0/30 vs  1/30  diff -0.03 [-0.17,+0.08]  rescued 0 broken 1  McNemar p=1.0000
+        fixed vs none       n=30  delivered  1/30 vs  0/30  diff +0.03 [-0.08,+0.17]  rescued 1 broken 0  McNemar p=1.0000
+        fixed vs ackTimeout n=30  delivered  1/30 vs  0/30  diff +0.03 [-0.08,+0.17]  rescued 1 broken 0  McNemar p=1.0000
+

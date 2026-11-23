@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<configuration>
+  <input>
+    <net-file value="hwy.net.xml"/>
+    <route-files value="hwy.rou.xml"/>
+  </input>
+  <time>
+    <begin value="0"/>
+    <end value="1000"/>
+  </time>
+</configuration>

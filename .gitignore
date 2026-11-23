@@ -1,0 +1,25 @@
+# build output
+out/
+*.o
+*.so
+*.dll
+*_m.h
+*_m.cc
+src/Vanet_Blackhole
+src/Makefile.bak
+# OMNeT++ results and logs (regenerate with the configs)
+results/
+*.sca
+*.vec
+*.vci
+*.elog
+*.log
+# editor / OS
+.vscode/
+.idea/
+*~
+*:Zone.Identifier
+# secrets: never commit
+.git-credentials
+*.token
+.env
